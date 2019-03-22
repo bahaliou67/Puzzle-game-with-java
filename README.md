@@ -1,2 +1,2 @@
-# sokoban-with-java
-I propose the game sokoban in java
+# puzzle game with java
+The puzzle game in java
