@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Lancer
+Exec=sh scripts/run.sh
+Type=Application
+Icon=puzzle.xpm
+Terminal=true
+

@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {0.1}Introduction}{2}
+\contentsline {section}{\numberline {0.2}Regles de jeu}{2}
+\contentsline {section}{\numberline {0.3}Conception}{2}
+\contentsline {subsection}{\numberline {0.3.1}Diagrammme de classe}{3}
+\contentsline {subsection}{\numberline {0.3.2}Partie MVC}{3}
+\contentsline {section}{\numberline {0.4}Probl\IeC {\`e}mes rencontr\IeC {\'e}s}{3}
+\contentsline {section}{\numberline {0.5}Conclusion}{3}
+\contentsline {subsection}{\numberline {0.5.1}Am\IeC {\'e}lioration}{4}
